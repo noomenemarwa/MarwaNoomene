@@ -39,11 +39,11 @@
 
 <br>
 <h2>⚡ GitHub Stats</h2>
-<!-- [![MarwaNoomene's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarwaNoomene)](https://git.io/praveenscience) -->
+[![MarwaNoomene's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarwaNoomene)](https://git.io/praveenscience)
 
 <a href="/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarwaNoomene&show_icons=true&theme=dark&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noomenemarwa&show_icons=true&theme=dark&card_width=300" />
 </a>
-<!-- <a href="/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarwaNoomene&langs_count=8&theme=dark&hide_progress=true&card_width=300" />
-</a> -->
+<a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noomenemarwa&langs_count=8&theme=dark&hide_progress=true&card_width=300" />
+</a>
